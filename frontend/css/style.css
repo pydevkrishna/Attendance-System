@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #444;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-primary {
+    background-color: #6a11cb;
+    border-color: #6a11cb;
+}
+
+.btn-primary:hover {
+    background-color: #5a0fb1;
+    border-color: #5a0fb1;
+}
+
+.navbar {
+    border-radius: 10px;
+}
